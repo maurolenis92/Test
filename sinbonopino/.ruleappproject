@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RuleApp>
+   <ruleset>
+      <kind>ruleproject</kind>
+      <display-name>Liquidacion Asesores</display-name>
+      <name>LiquidacionAsesores</name>
+      <version>1.0</version>
+      <fullpath>runtime/LiquidacionAsesores10.jar</fullpath>
+      <location>Liquidacion Asesores</location>
+      <export>true</export>
+   </ruleset>
+</RuleApp>
+
